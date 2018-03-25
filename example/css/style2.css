@@ -1,0 +1,16 @@
+/* div {
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#box1 {
+  background-color: yellow;
+  border: 10px solid red;
+  width: 150px;
+  height: 150px;
+  padding: 30px;
+  margin: 50px;
+}
